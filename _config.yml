@@ -22,9 +22,8 @@ title: 02806 - Final Project - Group 19
 author: Zhuotong Jin - s240046
 email: s240046@dtu.dk
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  An interactive data storytelling project analyzing San Francisco’s 311 service complaints.
+  Focused on Street & Sidewalk Cleaning, the site explores when, where, and how often residents report cleanliness issues — and what patterns emerge over time.
 doamin: zjin927.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://zjin927.github.io # the base hostname & protocol for your site, e.g. http://example.com
